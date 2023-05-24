@@ -1,1 +1,1 @@
-console .log("hii i am uzma...")
+console.log(2+2)=4
